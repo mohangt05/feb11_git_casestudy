@@ -1,0 +1,54 @@
+======================================================================================================================================
+case study 1
+
+======================================================================================================================================
+
+  419  mkdir casestudy
+  420  cd casestudy/
+  421  ls
+  422  git init
+  423  git
+  424  touch masterfile.txt
+  425  git add .
+  426  git commit -m :commit at masterfile"
+  427  git commit -m "commit at masterfile"
+  428  git master
+  429  git branch test && git branch tester
+  430  git branch feature1 && git branch feature2
+  431  git branch
+  432  git checkout feature1
+  433  ls
+  434  touch newf1.txt
+  435  git add .
+  436  git commit -m :newf1.txt"
+  437  git commit -m "newf1.txt"
+  438  git checkout feature2
+  439  touch newf2.txt
+  440  git add .
+  441  git commit -m "newf2.txt"
+  442  git checkout tester
+  443  ls
+  444  git branch
+  445  git branch -D test
+  446  git checkout tester
+  447  git merge feature1 && git merge feature2
+  448  ls
+  449* git checkout master
+  450  ls
+  451  git checkout  tester
+  452  git branch hotfix
+  453  git checkout hotfix
+  454  touch requirement
+  455  vi requirement
+  456  git add .
+  457  got commit -m "hotfix 25th of everymonth "
+  458  git commit -m "hotfix 25th of everymonth "
+  459  git status
+  460  ls
+  461  git checkout master
+  462  git merge hotfix
+  463  ls
+  464  history
+
+
+
